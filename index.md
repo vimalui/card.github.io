@@ -43,6 +43,7 @@
       text-align: center;
       background: #1b1938;
       color: #fff;
+    margin:auto;
     }
     .flex-row{
       display: flex;
